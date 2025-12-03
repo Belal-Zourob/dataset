@@ -1,0 +1,18 @@
+names:
+  0: Apple
+  1: Banana
+  2: Grape
+  3: Orange
+  4: Pineapple
+  5: Watermelon
+  6: kiwi
+  7: Sugerapple
+  8: Mango 
+  9: Strawberry
+  10: Lemon
+  11: Pear
+
+path: dataset
+train: images/train
+val: images/val
+test: images/test
