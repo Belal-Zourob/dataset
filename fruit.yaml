@@ -15,6 +15,7 @@ names:
   13: Coconut
   14: Avocado
   15: Papaya
+  16: Dragonfruit
 
 path: dataset
 train: images/train
