@@ -13,6 +13,7 @@ names:
   11: Pear
   12: Raspberry
   13: Coconut
+  14: Avocado
 
 path: dataset
 train: images/train
